@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left">**Socila Media**</p>
+<p align="left">Social Media</p>
 
 ###
 
