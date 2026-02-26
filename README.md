@@ -2,14 +2,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyPHER298&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyPHER298&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">I am a Software Developer in my final semester at FIAP, one of Brazil’s leading tech hubs. Over the past four years, I have dedicated myself to mastering the art of coding, fueled by the same passion I bring to my life as a musician.<br><br>I believe that programming and music are two sides of the same coin: both require a deep understanding of structures, patterns, and the constant pursuit of harmony. Beyond the screen, I am a polyglot at heart—fluent in English and currently exploring French—and a traveler driven by a curiosity for new cultures. I am looking to bridge the gap between technical excellence and creative innovation in the global tech market.</p>
 
 ###
 
-<h3 align="left">My Knowledges</h3>
+<h3 align="left">My Knowledge</h3>
 
 ###
 
@@ -69,7 +66,7 @@
 
 ###
 
-<p align="left">Socias Media</p>
+<p align="left">**Socila Media**</p>
 
 ###
 
