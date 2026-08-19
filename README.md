@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Henrique Batista and I'm a Fullstack Developer</h2>
+<h2 align="left">Hi 👋, I'm Henrique</h2>
 
 ###
 
-<p align="left">I am a Software Developer in my final semester at FIAP, one of Brazil’s leading tech hubs. Over the past four years, I have dedicated myself to mastering the art of coding, fueled by the same passion I bring to my life as a musician.<br><br>I believe that programming and music are two sides of the same coin: both require a deep understanding of structures, patterns, and the constant pursuit of harmony. Beyond the screen, I am a polyglot at heart—fluent in English and currently exploring French—and a traveler driven by a curiosity for new cultures. I am looking to bridge the gap between technical excellence and creative innovation in the global tech market.</p>
+<p align="left">I'm a Full-Stack Developer focused on Next.js/TypeScript and Java/Spring Boot. I currently help build MovimentaHub, a beneficiary-management platform serving 40+ companies and 20,000+ clients, and Gotolky, an AI-integrated chatbot for the health/insurance sector. I'm in my final year of Systems Analysis and Development at FIAP.<br><br>Outside of code, I'm a musician and a language enthusiast — always drawing parallels between music theory and clean architecture.</p>
 
 ###
 
@@ -11,39 +11,35 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
@@ -66,6 +62,31 @@
 
 ###
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+###
+
+<p align="left">
+  <b>MovimentaHub</b> — Beneficiary movement management platform (internal, W3G Consultoria). Full-stack contribution across front-end (Next.js/RBAC/auth) and back-end (Java/Spring Boot), serving 40+ companies and 20,000+ clients.<br><br>
+  <b>Gotolky</b> — AI-integrated chatbot for the health/insurance sector (internal, W3G Consultoria).<br><br>
+  <b><a href="https://github.com/CyPHER298/m8music-api" target="_blank">M8Music</a></b> — Live event platform for musician-audience interaction (final course project / TCC). Java-based microservices architecture with RabbitMQ messaging and a Clean Architecture / Hexagonal folder structure.<br><br>
+  <b><a href="https://github.com/CyPHER298/UrbansenseAPI" target="_blank">UrbanSense</a></b> — .NET 9 REST API with Clean Architecture, monitoring climate data across cities in Greater São Paulo.
+</p>
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=CyPHER298&show_icons=true&theme=merko" height="165" alt="Henrique's GitHub stats" />
+  <img width="12" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CyPHER298&layout=compact&theme=merko" height="165" alt="Top Languages" />
+</div>
+
+###
+
 <p align="left">Social Media</p>
 
 ###
@@ -80,7 +101,7 @@
   <a href="https://instagram.com/rickkkkkzn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="hbshenrique.ti@gmail.com" target="_blank">
+  <a href="mailto:hbshenrique.ti@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
